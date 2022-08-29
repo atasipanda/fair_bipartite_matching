@@ -10,9 +10,9 @@ The dataset is the file 'emp_access_challenge_free.csv'
 ####
 Instructions for running the code
 ####
-The code in Algo_implementation.txt can be run locally if scipy, pandas, NumPy, and time packages are installed in the system. Just make
+The code can be run locally if scipy, pandas, NumPy, and time packages are installed in the system. Just make
 sure that the dataset, 'emp_access_challenge_free.csv' is in the same folder as the code.
-All the experiments were run on google colab. 
+ 
 1) Open Google Colab notebook.
 2) Save a copy to Drive if you want to save your changes.
 3) Upload the file 'emp_access_challenge_free.csv' to the Google Colab notebook in the content folder.
